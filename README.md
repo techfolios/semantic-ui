@@ -17,7 +17,7 @@ To update to a new release of semantic-ui, I think it's as simple as:
 
   * `npm update`
   
-To build and install a new version, cd into the semantic/ directory, then invoke:
+To build a new theme and install it in the template, cd into the semantic/ directory, then invoke:
 
   * `gulp build`
   * `install-dist.sh`
