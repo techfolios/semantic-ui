@@ -1,0 +1,6 @@
+/*******************************
+        Global Overrides
+*******************************/
+
+@fontName          : 'Open Sans';
+@googleFontName    : 'Open+Sans';

@@ -1,0 +1,6 @@
+/*******************************
+         Theme Overrides
+*******************************/
+
+@descriptionColor: @textColor;
+@extraColor: @textColor;
