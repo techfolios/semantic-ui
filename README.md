@@ -11,7 +11,7 @@ Customizations:
   
 If you are downloading this from GitHub, the node_modules directory needs to be built.  I think you can do this with:
 
-  * `npm install`
+  * `npm install semantic-ui --save`
   
 To update to a new release of semantic-ui, I think it's as simple as:
 
